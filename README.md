@@ -1,5 +1,5 @@
 ### Hi there 👋
-Code for a cause not applause....
+Code for a cause not for applause....
 
 <!--
 **tushar-chand/tushar-chand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
