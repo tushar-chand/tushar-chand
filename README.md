@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to XR....
+Code for a cause not applause....
 
 <!--
 **tushar-chand/tushar-chand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
